@@ -12,7 +12,7 @@
 
 ## Introduction
 
-Welcome to our repository! Here, we have shared a comprehensive notebook designed to guide you through the process of transferring data from Kaggle to Google Cloud Services. Whether you're looking to perform large-scale data analysis, machine learning, or simply want to take advantage of the cloud's computing capabilities, this guide will provide you with step-by-step instructions to make the data transfer as seamless as possible. Dive in to explore how you can leverage the best of both platforms for your projects!
+Welcome to my repository! Here, I have shared a comprehensive notebook designed to guide you through the process of transferring data from Kaggle to Google Cloud Services. Whether you're looking to perform large-scale data analysis, machine learning, or simply want to take advantage of the cloud's computing capabilities, this guide will provide you with step-by-step instructions to make the data transfer as seamless as possible. Dive in to explore how you can leverage the best of both platforms for your projects!
 
 ## Environment Setup
 
