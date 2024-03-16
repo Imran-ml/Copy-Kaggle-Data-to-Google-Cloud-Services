@@ -54,7 +54,6 @@ To use this project, clone the repository and set up the environment as follows:
 2. **Setup the Environment**:
     - Navigate to the project directory and activate the virtual environment.
     - Install the dependencies from `requirements.txt`.
-    - 
 
 ### Before copy the data, you need to the following steps first:
 - Create a new Kaggle Notebook. To do this, click <> **Notebooks** on the left sidebar and click + **New Notebook**
